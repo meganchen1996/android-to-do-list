@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity" >
+    <item android:id="@+id/add_item"
+        android:title="New Add"
+        android:icon="@drawable/plus"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom" />
+</menu>
